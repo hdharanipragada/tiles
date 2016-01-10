@@ -1,0 +1,63 @@
+body {
+    background: #fbf6e7;
+}
+
+#Header {
+    border: 1px solid #9b582e;
+    background: #9b582e;
+    height: 60px;
+    width: 100%;
+    color: #ffffff;
+    padding-top: 10px;
+}
+#Header
+
+#footer span {
+    margin-left: 15px;
+}
+
+#navigation {
+    background: #c7a28b;
+    padding-bottom: 5px;
+    height: 40px;
+    color: #ffffff;
+}
+
+#drop div,
+#pickup div div {
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+    background: #ffffff;
+    border: 1px solid #aaaaaa;
+    border-radius: 5px;
+}
+
+.glyphicon {
+    top: 5px;
+}
+
+#footer {
+    margin-top: 10px;
+    background: #9b582e;
+    height: 40px;
+    width: 100%;
+    color: #ffffff;
+    padding-top: 10px;
+}
+
+img {
+    padding: 20px;
+    margin: 10px;
+}
+
+.bttn {
+    right: 250px;
+}
+input{
+   background-color: #9b582e;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    height: 30px;
+}
